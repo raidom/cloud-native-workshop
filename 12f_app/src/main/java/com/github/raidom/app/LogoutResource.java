@@ -1,4 +1,4 @@
-package main.java.com.github.raidom.app;
+package com.github.raidom.app;
 
 import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpSession;
