@@ -1,5 +1,5 @@
 applications:
-- name: raidom-app2
+- name: raidom-app3
   path: target/12f_app-1.0-SNAPSHOT.jar
   memory: 1G
   services:

@@ -7,6 +7,8 @@ deploy:
   username: raido.magi@smit.ee
   api: https://api.run.pivotal.io
   organization: raidom-org
-  space: development
+  space: staging
+  on:
+    branch: staging
   password:
     secure: rGDvd80skOZJoxdewPqtwd7oCVOCs1MihAqpacjSqktSG1mNwUx3gnCyFR1DPKCI1VrH9/N+99DU/k2Ej8dDHj+tbiL4/NGVJEjWjhoXsTLbWASWQ3AYfzRs9u8lkCLcvkQy4EIO4/GLRrGUIC4JYCeq4GrKyawRrbz6WthsoeO82CEEmOv1UYZrWunpZ6e+S4Uz9WRgeMzYZArYrWHF6Qx98a7b5cLTpm3KRIXJmqYc29Cexf3pzobzKbyYgszbfXo9PlpLX3OJ3FMBX0Q0u5Ww7sgFhzppKS49vcJAHv2eqgxYGRFXafuSXS5igOpJt474+y0PV/ocBq0UenjqcsiG/+mjSSwxI58PcHBLYaX3Ju8YZ6TfN+ahNxT5tmyN4rbpjkvaPIHzWtk755JqQxaF4UkYMjFQPX6IazoE4fGw0MZEE3nn4prrWObU92ad0xXubz88Gyu9iUYkMdazK8uhqTP9JR5KMMx/rNiHZUXh+WMUXnaWc4c6aD/P2wBARPjdY3kt8viYxMXjeDi5ZZl1Ua3OtT+d/LxaZwArrVk4U7C9ewS8lMaA9zuxB2IG8MFDeW/TQjOfMb2QyTZ3HQLOqpRbPaxatryd5tdtb/0gA93e597krwro5NX6sQuPpoLZy0UqYm2HCJgSeQklLcCiZQVzpqBMKIzAGBmjAIU=
